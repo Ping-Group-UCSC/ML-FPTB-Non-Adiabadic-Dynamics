@@ -3,7 +3,5 @@ Machine Learning First Principles Tight Binting Non-Adiabadic Dynamics
 
 
 Folder contain the following:
-  cspbbr3_ml_training : data needed for ML training
 
-  FPTB-Data           : data from FPTB simulations
-
+  diffusion_data    : contains diffusion data for x, y, and z directions with time step of 0.5 fs
