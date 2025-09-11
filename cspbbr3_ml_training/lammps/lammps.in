@@ -1,0 +1,33 @@
+#Initialization
+units metal
+dimension 3
+atom_style atomic #Atomic system with charges
+
+read_data conf.lmp
+replicate 4 4 4
+#read_restart lammps.restart
+
+#Interatomic potentials - DeepMD 
+pair_style	deepmd ../graphs/graph1.pb ../graphs/graph2.pb ../graphs/graph3.pb 
+pair_coeff * * deepmd
+
+#Minimization - Likely my input conf files are not great
+minimize 1.0e-6 1.0e-8 100 1000
+
+#MD parameters
+timestep 0.001 #ps 
+velocity all create 250 1815191 mom yes rot yes dist gaussian 
+
+#Run MD - equil at 330K
+run_style verlet #Velocity verlet
+fix 1 all npt temp 250 250 0.1 aniso 1 1 1 #NH thermostat - 330K with 100 fs frequency
+#fix 1 all nvt temp 250 250 0.1 
+fix 2 all momentum 1 linear 1 1 1 #Remove total linear momentum of the system at each step
+fix 3 all recenter INIT INIT INIT
+thermo 100 #Ouputing thermodynamic properties
+dump 1 all atom 100 pos.lammpstrj
+#dump 2 all custom 100 vel.xyz id type vx vy vz
+timer timeout 4:00:00 every 100
+run 500000 
+
+write_restart lammps.restart
