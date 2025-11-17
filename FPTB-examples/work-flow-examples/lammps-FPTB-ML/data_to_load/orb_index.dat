@@ -1,0 +1,1664 @@
+1 Pb:s 1 1 1 up
+2 Pb:s 1 1 1 dn
+3 Pb:s 2 1 1 up
+4 Pb:s 2 1 1 dn
+5 Pb:s 3 1 1 up
+6 Pb:s 3 1 1 dn
+7 Pb:s 4 1 1 up
+8 Pb:s 4 1 1 dn
+9 Pb:s 1 2 1 up
+10 Pb:s 1 2 1 dn
+11 Pb:s 2 2 1 up
+12 Pb:s 2 2 1 dn
+13 Pb:s 3 2 1 up
+14 Pb:s 3 2 1 dn
+15 Pb:s 4 2 1 up
+16 Pb:s 4 2 1 dn
+17 Pb:s 1 3 1 up
+18 Pb:s 1 3 1 dn
+19 Pb:s 2 3 1 up
+20 Pb:s 2 3 1 dn
+21 Pb:s 3 3 1 up
+22 Pb:s 3 3 1 dn
+23 Pb:s 4 3 1 up
+24 Pb:s 4 3 1 dn
+25 Pb:s 1 4 1 up
+26 Pb:s 1 4 1 dn
+27 Pb:s 2 4 1 up
+28 Pb:s 2 4 1 dn
+29 Pb:s 3 4 1 up
+30 Pb:s 3 4 1 dn
+31 Pb:s 4 4 1 up
+32 Pb:s 4 4 1 dn
+33 Pb:s 1 1 2 up
+34 Pb:s 1 1 2 dn
+35 Pb:s 2 1 2 up
+36 Pb:s 2 1 2 dn
+37 Pb:s 3 1 2 up
+38 Pb:s 3 1 2 dn
+39 Pb:s 4 1 2 up
+40 Pb:s 4 1 2 dn
+41 Pb:s 1 2 2 up
+42 Pb:s 1 2 2 dn
+43 Pb:s 2 2 2 up
+44 Pb:s 2 2 2 dn
+45 Pb:s 3 2 2 up
+46 Pb:s 3 2 2 dn
+47 Pb:s 4 2 2 up
+48 Pb:s 4 2 2 dn
+49 Pb:s 1 3 2 up
+50 Pb:s 1 3 2 dn
+51 Pb:s 2 3 2 up
+52 Pb:s 2 3 2 dn
+53 Pb:s 3 3 2 up
+54 Pb:s 3 3 2 dn
+55 Pb:s 4 3 2 up
+56 Pb:s 4 3 2 dn
+57 Pb:s 1 4 2 up
+58 Pb:s 1 4 2 dn
+59 Pb:s 2 4 2 up
+60 Pb:s 2 4 2 dn
+61 Pb:s 3 4 2 up
+62 Pb:s 3 4 2 dn
+63 Pb:s 4 4 2 up
+64 Pb:s 4 4 2 dn
+65 Pb:s 1 1 3 up
+66 Pb:s 1 1 3 dn
+67 Pb:s 2 1 3 up
+68 Pb:s 2 1 3 dn
+69 Pb:s 3 1 3 up
+70 Pb:s 3 1 3 dn
+71 Pb:s 4 1 3 up
+72 Pb:s 4 1 3 dn
+73 Pb:s 1 2 3 up
+74 Pb:s 1 2 3 dn
+75 Pb:s 2 2 3 up
+76 Pb:s 2 2 3 dn
+77 Pb:s 3 2 3 up
+78 Pb:s 3 2 3 dn
+79 Pb:s 4 2 3 up
+80 Pb:s 4 2 3 dn
+81 Pb:s 1 3 3 up
+82 Pb:s 1 3 3 dn
+83 Pb:s 2 3 3 up
+84 Pb:s 2 3 3 dn
+85 Pb:s 3 3 3 up
+86 Pb:s 3 3 3 dn
+87 Pb:s 4 3 3 up
+88 Pb:s 4 3 3 dn
+89 Pb:s 1 4 3 up
+90 Pb:s 1 4 3 dn
+91 Pb:s 2 4 3 up
+92 Pb:s 2 4 3 dn
+93 Pb:s 3 4 3 up
+94 Pb:s 3 4 3 dn
+95 Pb:s 4 4 3 up
+96 Pb:s 4 4 3 dn
+97 Pb:s 1 1 4 up
+98 Pb:s 1 1 4 dn
+99 Pb:s 2 1 4 up
+100 Pb:s 2 1 4 dn
+101 Pb:s 3 1 4 up
+102 Pb:s 3 1 4 dn
+103 Pb:s 4 1 4 up
+104 Pb:s 4 1 4 dn
+105 Pb:s 1 2 4 up
+106 Pb:s 1 2 4 dn
+107 Pb:s 2 2 4 up
+108 Pb:s 2 2 4 dn
+109 Pb:s 3 2 4 up
+110 Pb:s 3 2 4 dn
+111 Pb:s 4 2 4 up
+112 Pb:s 4 2 4 dn
+113 Pb:s 1 3 4 up
+114 Pb:s 1 3 4 dn
+115 Pb:s 2 3 4 up
+116 Pb:s 2 3 4 dn
+117 Pb:s 3 3 4 up
+118 Pb:s 3 3 4 dn
+119 Pb:s 4 3 4 up
+120 Pb:s 4 3 4 dn
+121 Pb:s 1 4 4 up
+122 Pb:s 1 4 4 dn
+123 Pb:s 2 4 4 up
+124 Pb:s 2 4 4 dn
+125 Pb:s 3 4 4 up
+126 Pb:s 3 4 4 dn
+127 Pb:s 4 4 4 up
+128 Pb:s 4 4 4 dn
+129 Pb:p 1 1 1 Z up
+130 Pb:p 1 1 1 Z dn
+131 Pb:p 1 1 1 X up
+132 Pb:p 1 1 1 X dn
+133 Pb:p 1 1 1 Y up
+134 Pb:p 1 1 1 Y dn
+135 Pb:p 2 1 1 Z up
+136 Pb:p 2 1 1 Z dn
+137 Pb:p 2 1 1 X up
+138 Pb:p 2 1 1 X dn
+139 Pb:p 2 1 1 Y up
+140 Pb:p 2 1 1 Y dn
+141 Pb:p 3 1 1 Z up
+142 Pb:p 3 1 1 Z dn
+143 Pb:p 3 1 1 X up
+144 Pb:p 3 1 1 X dn
+145 Pb:p 3 1 1 Y up
+146 Pb:p 3 1 1 Y dn
+147 Pb:p 4 1 1 Z up
+148 Pb:p 4 1 1 Z dn
+149 Pb:p 4 1 1 X up
+150 Pb:p 4 1 1 X dn
+151 Pb:p 4 1 1 Y up
+152 Pb:p 4 1 1 Y dn
+153 Pb:p 1 2 1 Z up
+154 Pb:p 1 2 1 Z dn
+155 Pb:p 1 2 1 X up
+156 Pb:p 1 2 1 X dn
+157 Pb:p 1 2 1 Y up
+158 Pb:p 1 2 1 Y dn
+159 Pb:p 2 2 1 Z up
+160 Pb:p 2 2 1 Z dn
+161 Pb:p 2 2 1 X up
+162 Pb:p 2 2 1 X dn
+163 Pb:p 2 2 1 Y up
+164 Pb:p 2 2 1 Y dn
+165 Pb:p 3 2 1 Z up
+166 Pb:p 3 2 1 Z dn
+167 Pb:p 3 2 1 X up
+168 Pb:p 3 2 1 X dn
+169 Pb:p 3 2 1 Y up
+170 Pb:p 3 2 1 Y dn
+171 Pb:p 4 2 1 Z up
+172 Pb:p 4 2 1 Z dn
+173 Pb:p 4 2 1 X up
+174 Pb:p 4 2 1 X dn
+175 Pb:p 4 2 1 Y up
+176 Pb:p 4 2 1 Y dn
+177 Pb:p 1 3 1 Z up
+178 Pb:p 1 3 1 Z dn
+179 Pb:p 1 3 1 X up
+180 Pb:p 1 3 1 X dn
+181 Pb:p 1 3 1 Y up
+182 Pb:p 1 3 1 Y dn
+183 Pb:p 2 3 1 Z up
+184 Pb:p 2 3 1 Z dn
+185 Pb:p 2 3 1 X up
+186 Pb:p 2 3 1 X dn
+187 Pb:p 2 3 1 Y up
+188 Pb:p 2 3 1 Y dn
+189 Pb:p 3 3 1 Z up
+190 Pb:p 3 3 1 Z dn
+191 Pb:p 3 3 1 X up
+192 Pb:p 3 3 1 X dn
+193 Pb:p 3 3 1 Y up
+194 Pb:p 3 3 1 Y dn
+195 Pb:p 4 3 1 Z up
+196 Pb:p 4 3 1 Z dn
+197 Pb:p 4 3 1 X up
+198 Pb:p 4 3 1 X dn
+199 Pb:p 4 3 1 Y up
+200 Pb:p 4 3 1 Y dn
+201 Pb:p 1 4 1 Z up
+202 Pb:p 1 4 1 Z dn
+203 Pb:p 1 4 1 X up
+204 Pb:p 1 4 1 X dn
+205 Pb:p 1 4 1 Y up
+206 Pb:p 1 4 1 Y dn
+207 Pb:p 2 4 1 Z up
+208 Pb:p 2 4 1 Z dn
+209 Pb:p 2 4 1 X up
+210 Pb:p 2 4 1 X dn
+211 Pb:p 2 4 1 Y up
+212 Pb:p 2 4 1 Y dn
+213 Pb:p 3 4 1 Z up
+214 Pb:p 3 4 1 Z dn
+215 Pb:p 3 4 1 X up
+216 Pb:p 3 4 1 X dn
+217 Pb:p 3 4 1 Y up
+218 Pb:p 3 4 1 Y dn
+219 Pb:p 4 4 1 Z up
+220 Pb:p 4 4 1 Z dn
+221 Pb:p 4 4 1 X up
+222 Pb:p 4 4 1 X dn
+223 Pb:p 4 4 1 Y up
+224 Pb:p 4 4 1 Y dn
+225 Pb:p 1 1 2 Z up
+226 Pb:p 1 1 2 Z dn
+227 Pb:p 1 1 2 X up
+228 Pb:p 1 1 2 X dn
+229 Pb:p 1 1 2 Y up
+230 Pb:p 1 1 2 Y dn
+231 Pb:p 2 1 2 Z up
+232 Pb:p 2 1 2 Z dn
+233 Pb:p 2 1 2 X up
+234 Pb:p 2 1 2 X dn
+235 Pb:p 2 1 2 Y up
+236 Pb:p 2 1 2 Y dn
+237 Pb:p 3 1 2 Z up
+238 Pb:p 3 1 2 Z dn
+239 Pb:p 3 1 2 X up
+240 Pb:p 3 1 2 X dn
+241 Pb:p 3 1 2 Y up
+242 Pb:p 3 1 2 Y dn
+243 Pb:p 4 1 2 Z up
+244 Pb:p 4 1 2 Z dn
+245 Pb:p 4 1 2 X up
+246 Pb:p 4 1 2 X dn
+247 Pb:p 4 1 2 Y up
+248 Pb:p 4 1 2 Y dn
+249 Pb:p 1 2 2 Z up
+250 Pb:p 1 2 2 Z dn
+251 Pb:p 1 2 2 X up
+252 Pb:p 1 2 2 X dn
+253 Pb:p 1 2 2 Y up
+254 Pb:p 1 2 2 Y dn
+255 Pb:p 2 2 2 Z up
+256 Pb:p 2 2 2 Z dn
+257 Pb:p 2 2 2 X up
+258 Pb:p 2 2 2 X dn
+259 Pb:p 2 2 2 Y up
+260 Pb:p 2 2 2 Y dn
+261 Pb:p 3 2 2 Z up
+262 Pb:p 3 2 2 Z dn
+263 Pb:p 3 2 2 X up
+264 Pb:p 3 2 2 X dn
+265 Pb:p 3 2 2 Y up
+266 Pb:p 3 2 2 Y dn
+267 Pb:p 4 2 2 Z up
+268 Pb:p 4 2 2 Z dn
+269 Pb:p 4 2 2 X up
+270 Pb:p 4 2 2 X dn
+271 Pb:p 4 2 2 Y up
+272 Pb:p 4 2 2 Y dn
+273 Pb:p 1 3 2 Z up
+274 Pb:p 1 3 2 Z dn
+275 Pb:p 1 3 2 X up
+276 Pb:p 1 3 2 X dn
+277 Pb:p 1 3 2 Y up
+278 Pb:p 1 3 2 Y dn
+279 Pb:p 2 3 2 Z up
+280 Pb:p 2 3 2 Z dn
+281 Pb:p 2 3 2 X up
+282 Pb:p 2 3 2 X dn
+283 Pb:p 2 3 2 Y up
+284 Pb:p 2 3 2 Y dn
+285 Pb:p 3 3 2 Z up
+286 Pb:p 3 3 2 Z dn
+287 Pb:p 3 3 2 X up
+288 Pb:p 3 3 2 X dn
+289 Pb:p 3 3 2 Y up
+290 Pb:p 3 3 2 Y dn
+291 Pb:p 4 3 2 Z up
+292 Pb:p 4 3 2 Z dn
+293 Pb:p 4 3 2 X up
+294 Pb:p 4 3 2 X dn
+295 Pb:p 4 3 2 Y up
+296 Pb:p 4 3 2 Y dn
+297 Pb:p 1 4 2 Z up
+298 Pb:p 1 4 2 Z dn
+299 Pb:p 1 4 2 X up
+300 Pb:p 1 4 2 X dn
+301 Pb:p 1 4 2 Y up
+302 Pb:p 1 4 2 Y dn
+303 Pb:p 2 4 2 Z up
+304 Pb:p 2 4 2 Z dn
+305 Pb:p 2 4 2 X up
+306 Pb:p 2 4 2 X dn
+307 Pb:p 2 4 2 Y up
+308 Pb:p 2 4 2 Y dn
+309 Pb:p 3 4 2 Z up
+310 Pb:p 3 4 2 Z dn
+311 Pb:p 3 4 2 X up
+312 Pb:p 3 4 2 X dn
+313 Pb:p 3 4 2 Y up
+314 Pb:p 3 4 2 Y dn
+315 Pb:p 4 4 2 Z up
+316 Pb:p 4 4 2 Z dn
+317 Pb:p 4 4 2 X up
+318 Pb:p 4 4 2 X dn
+319 Pb:p 4 4 2 Y up
+320 Pb:p 4 4 2 Y dn
+321 Pb:p 1 1 3 Z up
+322 Pb:p 1 1 3 Z dn
+323 Pb:p 1 1 3 X up
+324 Pb:p 1 1 3 X dn
+325 Pb:p 1 1 3 Y up
+326 Pb:p 1 1 3 Y dn
+327 Pb:p 2 1 3 Z up
+328 Pb:p 2 1 3 Z dn
+329 Pb:p 2 1 3 X up
+330 Pb:p 2 1 3 X dn
+331 Pb:p 2 1 3 Y up
+332 Pb:p 2 1 3 Y dn
+333 Pb:p 3 1 3 Z up
+334 Pb:p 3 1 3 Z dn
+335 Pb:p 3 1 3 X up
+336 Pb:p 3 1 3 X dn
+337 Pb:p 3 1 3 Y up
+338 Pb:p 3 1 3 Y dn
+339 Pb:p 4 1 3 Z up
+340 Pb:p 4 1 3 Z dn
+341 Pb:p 4 1 3 X up
+342 Pb:p 4 1 3 X dn
+343 Pb:p 4 1 3 Y up
+344 Pb:p 4 1 3 Y dn
+345 Pb:p 1 2 3 Z up
+346 Pb:p 1 2 3 Z dn
+347 Pb:p 1 2 3 X up
+348 Pb:p 1 2 3 X dn
+349 Pb:p 1 2 3 Y up
+350 Pb:p 1 2 3 Y dn
+351 Pb:p 2 2 3 Z up
+352 Pb:p 2 2 3 Z dn
+353 Pb:p 2 2 3 X up
+354 Pb:p 2 2 3 X dn
+355 Pb:p 2 2 3 Y up
+356 Pb:p 2 2 3 Y dn
+357 Pb:p 3 2 3 Z up
+358 Pb:p 3 2 3 Z dn
+359 Pb:p 3 2 3 X up
+360 Pb:p 3 2 3 X dn
+361 Pb:p 3 2 3 Y up
+362 Pb:p 3 2 3 Y dn
+363 Pb:p 4 2 3 Z up
+364 Pb:p 4 2 3 Z dn
+365 Pb:p 4 2 3 X up
+366 Pb:p 4 2 3 X dn
+367 Pb:p 4 2 3 Y up
+368 Pb:p 4 2 3 Y dn
+369 Pb:p 1 3 3 Z up
+370 Pb:p 1 3 3 Z dn
+371 Pb:p 1 3 3 X up
+372 Pb:p 1 3 3 X dn
+373 Pb:p 1 3 3 Y up
+374 Pb:p 1 3 3 Y dn
+375 Pb:p 2 3 3 Z up
+376 Pb:p 2 3 3 Z dn
+377 Pb:p 2 3 3 X up
+378 Pb:p 2 3 3 X dn
+379 Pb:p 2 3 3 Y up
+380 Pb:p 2 3 3 Y dn
+381 Pb:p 3 3 3 Z up
+382 Pb:p 3 3 3 Z dn
+383 Pb:p 3 3 3 X up
+384 Pb:p 3 3 3 X dn
+385 Pb:p 3 3 3 Y up
+386 Pb:p 3 3 3 Y dn
+387 Pb:p 4 3 3 Z up
+388 Pb:p 4 3 3 Z dn
+389 Pb:p 4 3 3 X up
+390 Pb:p 4 3 3 X dn
+391 Pb:p 4 3 3 Y up
+392 Pb:p 4 3 3 Y dn
+393 Pb:p 1 4 3 Z up
+394 Pb:p 1 4 3 Z dn
+395 Pb:p 1 4 3 X up
+396 Pb:p 1 4 3 X dn
+397 Pb:p 1 4 3 Y up
+398 Pb:p 1 4 3 Y dn
+399 Pb:p 2 4 3 Z up
+400 Pb:p 2 4 3 Z dn
+401 Pb:p 2 4 3 X up
+402 Pb:p 2 4 3 X dn
+403 Pb:p 2 4 3 Y up
+404 Pb:p 2 4 3 Y dn
+405 Pb:p 3 4 3 Z up
+406 Pb:p 3 4 3 Z dn
+407 Pb:p 3 4 3 X up
+408 Pb:p 3 4 3 X dn
+409 Pb:p 3 4 3 Y up
+410 Pb:p 3 4 3 Y dn
+411 Pb:p 4 4 3 Z up
+412 Pb:p 4 4 3 Z dn
+413 Pb:p 4 4 3 X up
+414 Pb:p 4 4 3 X dn
+415 Pb:p 4 4 3 Y up
+416 Pb:p 4 4 3 Y dn
+417 Pb:p 1 1 4 Z up
+418 Pb:p 1 1 4 Z dn
+419 Pb:p 1 1 4 X up
+420 Pb:p 1 1 4 X dn
+421 Pb:p 1 1 4 Y up
+422 Pb:p 1 1 4 Y dn
+423 Pb:p 2 1 4 Z up
+424 Pb:p 2 1 4 Z dn
+425 Pb:p 2 1 4 X up
+426 Pb:p 2 1 4 X dn
+427 Pb:p 2 1 4 Y up
+428 Pb:p 2 1 4 Y dn
+429 Pb:p 3 1 4 Z up
+430 Pb:p 3 1 4 Z dn
+431 Pb:p 3 1 4 X up
+432 Pb:p 3 1 4 X dn
+433 Pb:p 3 1 4 Y up
+434 Pb:p 3 1 4 Y dn
+435 Pb:p 4 1 4 Z up
+436 Pb:p 4 1 4 Z dn
+437 Pb:p 4 1 4 X up
+438 Pb:p 4 1 4 X dn
+439 Pb:p 4 1 4 Y up
+440 Pb:p 4 1 4 Y dn
+441 Pb:p 1 2 4 Z up
+442 Pb:p 1 2 4 Z dn
+443 Pb:p 1 2 4 X up
+444 Pb:p 1 2 4 X dn
+445 Pb:p 1 2 4 Y up
+446 Pb:p 1 2 4 Y dn
+447 Pb:p 2 2 4 Z up
+448 Pb:p 2 2 4 Z dn
+449 Pb:p 2 2 4 X up
+450 Pb:p 2 2 4 X dn
+451 Pb:p 2 2 4 Y up
+452 Pb:p 2 2 4 Y dn
+453 Pb:p 3 2 4 Z up
+454 Pb:p 3 2 4 Z dn
+455 Pb:p 3 2 4 X up
+456 Pb:p 3 2 4 X dn
+457 Pb:p 3 2 4 Y up
+458 Pb:p 3 2 4 Y dn
+459 Pb:p 4 2 4 Z up
+460 Pb:p 4 2 4 Z dn
+461 Pb:p 4 2 4 X up
+462 Pb:p 4 2 4 X dn
+463 Pb:p 4 2 4 Y up
+464 Pb:p 4 2 4 Y dn
+465 Pb:p 1 3 4 Z up
+466 Pb:p 1 3 4 Z dn
+467 Pb:p 1 3 4 X up
+468 Pb:p 1 3 4 X dn
+469 Pb:p 1 3 4 Y up
+470 Pb:p 1 3 4 Y dn
+471 Pb:p 2 3 4 Z up
+472 Pb:p 2 3 4 Z dn
+473 Pb:p 2 3 4 X up
+474 Pb:p 2 3 4 X dn
+475 Pb:p 2 3 4 Y up
+476 Pb:p 2 3 4 Y dn
+477 Pb:p 3 3 4 Z up
+478 Pb:p 3 3 4 Z dn
+479 Pb:p 3 3 4 X up
+480 Pb:p 3 3 4 X dn
+481 Pb:p 3 3 4 Y up
+482 Pb:p 3 3 4 Y dn
+483 Pb:p 4 3 4 Z up
+484 Pb:p 4 3 4 Z dn
+485 Pb:p 4 3 4 X up
+486 Pb:p 4 3 4 X dn
+487 Pb:p 4 3 4 Y up
+488 Pb:p 4 3 4 Y dn
+489 Pb:p 1 4 4 Z up
+490 Pb:p 1 4 4 Z dn
+491 Pb:p 1 4 4 X up
+492 Pb:p 1 4 4 X dn
+493 Pb:p 1 4 4 Y up
+494 Pb:p 1 4 4 Y dn
+495 Pb:p 2 4 4 Z up
+496 Pb:p 2 4 4 Z dn
+497 Pb:p 2 4 4 X up
+498 Pb:p 2 4 4 X dn
+499 Pb:p 2 4 4 Y up
+500 Pb:p 2 4 4 Y dn
+501 Pb:p 3 4 4 Z up
+502 Pb:p 3 4 4 Z dn
+503 Pb:p 3 4 4 X up
+504 Pb:p 3 4 4 X dn
+505 Pb:p 3 4 4 Y up
+506 Pb:p 3 4 4 Y dn
+507 Pb:p 4 4 4 Z up
+508 Pb:p 4 4 4 Z dn
+509 Pb:p 4 4 4 X up
+510 Pb:p 4 4 4 X dn
+511 Pb:p 4 4 4 Y up
+512 Pb:p 4 4 4 Y dn
+513 Br:p 1 1 1 z Z up
+514 Br:p 1 1 1 z Z dn
+515 Br:p 1 1 1 z X up
+516 Br:p 1 1 1 z X dn
+517 Br:p 1 1 1 z Y up
+518 Br:p 1 1 1 z Y dn
+519 Br:p 1 1 1 y Z up
+520 Br:p 1 1 1 y Z dn
+521 Br:p 1 1 1 y X up
+522 Br:p 1 1 1 y X dn
+523 Br:p 1 1 1 y Y up
+524 Br:p 1 1 1 y Y dn
+525 Br:p 1 1 1 x Z up
+526 Br:p 1 1 1 x Z dn
+527 Br:p 1 1 1 x X up
+528 Br:p 1 1 1 x X dn
+529 Br:p 1 1 1 x Y up
+530 Br:p 1 1 1 x Y dn
+531 Br:p 2 1 1 z Z up
+532 Br:p 2 1 1 z Z dn
+533 Br:p 2 1 1 z X up
+534 Br:p 2 1 1 z X dn
+535 Br:p 2 1 1 z Y up
+536 Br:p 2 1 1 z Y dn
+537 Br:p 2 1 1 y Z up
+538 Br:p 2 1 1 y Z dn
+539 Br:p 2 1 1 y X up
+540 Br:p 2 1 1 y X dn
+541 Br:p 2 1 1 y Y up
+542 Br:p 2 1 1 y Y dn
+543 Br:p 2 1 1 x Z up
+544 Br:p 2 1 1 x Z dn
+545 Br:p 2 1 1 x X up
+546 Br:p 2 1 1 x X dn
+547 Br:p 2 1 1 x Y up
+548 Br:p 2 1 1 x Y dn
+549 Br:p 3 1 1 z Z up
+550 Br:p 3 1 1 z Z dn
+551 Br:p 3 1 1 z X up
+552 Br:p 3 1 1 z X dn
+553 Br:p 3 1 1 z Y up
+554 Br:p 3 1 1 z Y dn
+555 Br:p 3 1 1 y Z up
+556 Br:p 3 1 1 y Z dn
+557 Br:p 3 1 1 y X up
+558 Br:p 3 1 1 y X dn
+559 Br:p 3 1 1 y Y up
+560 Br:p 3 1 1 y Y dn
+561 Br:p 3 1 1 x Z up
+562 Br:p 3 1 1 x Z dn
+563 Br:p 3 1 1 x X up
+564 Br:p 3 1 1 x X dn
+565 Br:p 3 1 1 x Y up
+566 Br:p 3 1 1 x Y dn
+567 Br:p 4 1 1 z Z up
+568 Br:p 4 1 1 z Z dn
+569 Br:p 4 1 1 z X up
+570 Br:p 4 1 1 z X dn
+571 Br:p 4 1 1 z Y up
+572 Br:p 4 1 1 z Y dn
+573 Br:p 4 1 1 y Z up
+574 Br:p 4 1 1 y Z dn
+575 Br:p 4 1 1 y X up
+576 Br:p 4 1 1 y X dn
+577 Br:p 4 1 1 y Y up
+578 Br:p 4 1 1 y Y dn
+579 Br:p 4 1 1 x Z up
+580 Br:p 4 1 1 x Z dn
+581 Br:p 4 1 1 x X up
+582 Br:p 4 1 1 x X dn
+583 Br:p 4 1 1 x Y up
+584 Br:p 4 1 1 x Y dn
+585 Br:p 1 2 1 z Z up
+586 Br:p 1 2 1 z Z dn
+587 Br:p 1 2 1 z X up
+588 Br:p 1 2 1 z X dn
+589 Br:p 1 2 1 z Y up
+590 Br:p 1 2 1 z Y dn
+591 Br:p 1 2 1 y Z up
+592 Br:p 1 2 1 y Z dn
+593 Br:p 1 2 1 y X up
+594 Br:p 1 2 1 y X dn
+595 Br:p 1 2 1 y Y up
+596 Br:p 1 2 1 y Y dn
+597 Br:p 1 2 1 x Z up
+598 Br:p 1 2 1 x Z dn
+599 Br:p 1 2 1 x X up
+600 Br:p 1 2 1 x X dn
+601 Br:p 1 2 1 x Y up
+602 Br:p 1 2 1 x Y dn
+603 Br:p 2 2 1 z Z up
+604 Br:p 2 2 1 z Z dn
+605 Br:p 2 2 1 z X up
+606 Br:p 2 2 1 z X dn
+607 Br:p 2 2 1 z Y up
+608 Br:p 2 2 1 z Y dn
+609 Br:p 2 2 1 y Z up
+610 Br:p 2 2 1 y Z dn
+611 Br:p 2 2 1 y X up
+612 Br:p 2 2 1 y X dn
+613 Br:p 2 2 1 y Y up
+614 Br:p 2 2 1 y Y dn
+615 Br:p 2 2 1 x Z up
+616 Br:p 2 2 1 x Z dn
+617 Br:p 2 2 1 x X up
+618 Br:p 2 2 1 x X dn
+619 Br:p 2 2 1 x Y up
+620 Br:p 2 2 1 x Y dn
+621 Br:p 3 2 1 z Z up
+622 Br:p 3 2 1 z Z dn
+623 Br:p 3 2 1 z X up
+624 Br:p 3 2 1 z X dn
+625 Br:p 3 2 1 z Y up
+626 Br:p 3 2 1 z Y dn
+627 Br:p 3 2 1 y Z up
+628 Br:p 3 2 1 y Z dn
+629 Br:p 3 2 1 y X up
+630 Br:p 3 2 1 y X dn
+631 Br:p 3 2 1 y Y up
+632 Br:p 3 2 1 y Y dn
+633 Br:p 3 2 1 x Z up
+634 Br:p 3 2 1 x Z dn
+635 Br:p 3 2 1 x X up
+636 Br:p 3 2 1 x X dn
+637 Br:p 3 2 1 x Y up
+638 Br:p 3 2 1 x Y dn
+639 Br:p 4 2 1 z Z up
+640 Br:p 4 2 1 z Z dn
+641 Br:p 4 2 1 z X up
+642 Br:p 4 2 1 z X dn
+643 Br:p 4 2 1 z Y up
+644 Br:p 4 2 1 z Y dn
+645 Br:p 4 2 1 y Z up
+646 Br:p 4 2 1 y Z dn
+647 Br:p 4 2 1 y X up
+648 Br:p 4 2 1 y X dn
+649 Br:p 4 2 1 y Y up
+650 Br:p 4 2 1 y Y dn
+651 Br:p 4 2 1 x Z up
+652 Br:p 4 2 1 x Z dn
+653 Br:p 4 2 1 x X up
+654 Br:p 4 2 1 x X dn
+655 Br:p 4 2 1 x Y up
+656 Br:p 4 2 1 x Y dn
+657 Br:p 1 3 1 z Z up
+658 Br:p 1 3 1 z Z dn
+659 Br:p 1 3 1 z X up
+660 Br:p 1 3 1 z X dn
+661 Br:p 1 3 1 z Y up
+662 Br:p 1 3 1 z Y dn
+663 Br:p 1 3 1 y Z up
+664 Br:p 1 3 1 y Z dn
+665 Br:p 1 3 1 y X up
+666 Br:p 1 3 1 y X dn
+667 Br:p 1 3 1 y Y up
+668 Br:p 1 3 1 y Y dn
+669 Br:p 1 3 1 x Z up
+670 Br:p 1 3 1 x Z dn
+671 Br:p 1 3 1 x X up
+672 Br:p 1 3 1 x X dn
+673 Br:p 1 3 1 x Y up
+674 Br:p 1 3 1 x Y dn
+675 Br:p 2 3 1 z Z up
+676 Br:p 2 3 1 z Z dn
+677 Br:p 2 3 1 z X up
+678 Br:p 2 3 1 z X dn
+679 Br:p 2 3 1 z Y up
+680 Br:p 2 3 1 z Y dn
+681 Br:p 2 3 1 y Z up
+682 Br:p 2 3 1 y Z dn
+683 Br:p 2 3 1 y X up
+684 Br:p 2 3 1 y X dn
+685 Br:p 2 3 1 y Y up
+686 Br:p 2 3 1 y Y dn
+687 Br:p 2 3 1 x Z up
+688 Br:p 2 3 1 x Z dn
+689 Br:p 2 3 1 x X up
+690 Br:p 2 3 1 x X dn
+691 Br:p 2 3 1 x Y up
+692 Br:p 2 3 1 x Y dn
+693 Br:p 3 3 1 z Z up
+694 Br:p 3 3 1 z Z dn
+695 Br:p 3 3 1 z X up
+696 Br:p 3 3 1 z X dn
+697 Br:p 3 3 1 z Y up
+698 Br:p 3 3 1 z Y dn
+699 Br:p 3 3 1 y Z up
+700 Br:p 3 3 1 y Z dn
+701 Br:p 3 3 1 y X up
+702 Br:p 3 3 1 y X dn
+703 Br:p 3 3 1 y Y up
+704 Br:p 3 3 1 y Y dn
+705 Br:p 3 3 1 x Z up
+706 Br:p 3 3 1 x Z dn
+707 Br:p 3 3 1 x X up
+708 Br:p 3 3 1 x X dn
+709 Br:p 3 3 1 x Y up
+710 Br:p 3 3 1 x Y dn
+711 Br:p 4 3 1 z Z up
+712 Br:p 4 3 1 z Z dn
+713 Br:p 4 3 1 z X up
+714 Br:p 4 3 1 z X dn
+715 Br:p 4 3 1 z Y up
+716 Br:p 4 3 1 z Y dn
+717 Br:p 4 3 1 y Z up
+718 Br:p 4 3 1 y Z dn
+719 Br:p 4 3 1 y X up
+720 Br:p 4 3 1 y X dn
+721 Br:p 4 3 1 y Y up
+722 Br:p 4 3 1 y Y dn
+723 Br:p 4 3 1 x Z up
+724 Br:p 4 3 1 x Z dn
+725 Br:p 4 3 1 x X up
+726 Br:p 4 3 1 x X dn
+727 Br:p 4 3 1 x Y up
+728 Br:p 4 3 1 x Y dn
+729 Br:p 1 4 1 z Z up
+730 Br:p 1 4 1 z Z dn
+731 Br:p 1 4 1 z X up
+732 Br:p 1 4 1 z X dn
+733 Br:p 1 4 1 z Y up
+734 Br:p 1 4 1 z Y dn
+735 Br:p 1 4 1 y Z up
+736 Br:p 1 4 1 y Z dn
+737 Br:p 1 4 1 y X up
+738 Br:p 1 4 1 y X dn
+739 Br:p 1 4 1 y Y up
+740 Br:p 1 4 1 y Y dn
+741 Br:p 1 4 1 x Z up
+742 Br:p 1 4 1 x Z dn
+743 Br:p 1 4 1 x X up
+744 Br:p 1 4 1 x X dn
+745 Br:p 1 4 1 x Y up
+746 Br:p 1 4 1 x Y dn
+747 Br:p 2 4 1 z Z up
+748 Br:p 2 4 1 z Z dn
+749 Br:p 2 4 1 z X up
+750 Br:p 2 4 1 z X dn
+751 Br:p 2 4 1 z Y up
+752 Br:p 2 4 1 z Y dn
+753 Br:p 2 4 1 y Z up
+754 Br:p 2 4 1 y Z dn
+755 Br:p 2 4 1 y X up
+756 Br:p 2 4 1 y X dn
+757 Br:p 2 4 1 y Y up
+758 Br:p 2 4 1 y Y dn
+759 Br:p 2 4 1 x Z up
+760 Br:p 2 4 1 x Z dn
+761 Br:p 2 4 1 x X up
+762 Br:p 2 4 1 x X dn
+763 Br:p 2 4 1 x Y up
+764 Br:p 2 4 1 x Y dn
+765 Br:p 3 4 1 z Z up
+766 Br:p 3 4 1 z Z dn
+767 Br:p 3 4 1 z X up
+768 Br:p 3 4 1 z X dn
+769 Br:p 3 4 1 z Y up
+770 Br:p 3 4 1 z Y dn
+771 Br:p 3 4 1 y Z up
+772 Br:p 3 4 1 y Z dn
+773 Br:p 3 4 1 y X up
+774 Br:p 3 4 1 y X dn
+775 Br:p 3 4 1 y Y up
+776 Br:p 3 4 1 y Y dn
+777 Br:p 3 4 1 x Z up
+778 Br:p 3 4 1 x Z dn
+779 Br:p 3 4 1 x X up
+780 Br:p 3 4 1 x X dn
+781 Br:p 3 4 1 x Y up
+782 Br:p 3 4 1 x Y dn
+783 Br:p 4 4 1 z Z up
+784 Br:p 4 4 1 z Z dn
+785 Br:p 4 4 1 z X up
+786 Br:p 4 4 1 z X dn
+787 Br:p 4 4 1 z Y up
+788 Br:p 4 4 1 z Y dn
+789 Br:p 4 4 1 y Z up
+790 Br:p 4 4 1 y Z dn
+791 Br:p 4 4 1 y X up
+792 Br:p 4 4 1 y X dn
+793 Br:p 4 4 1 y Y up
+794 Br:p 4 4 1 y Y dn
+795 Br:p 4 4 1 x Z up
+796 Br:p 4 4 1 x Z dn
+797 Br:p 4 4 1 x X up
+798 Br:p 4 4 1 x X dn
+799 Br:p 4 4 1 x Y up
+800 Br:p 4 4 1 x Y dn
+801 Br:p 1 1 2 z Z up
+802 Br:p 1 1 2 z Z dn
+803 Br:p 1 1 2 z X up
+804 Br:p 1 1 2 z X dn
+805 Br:p 1 1 2 z Y up
+806 Br:p 1 1 2 z Y dn
+807 Br:p 1 1 2 y Z up
+808 Br:p 1 1 2 y Z dn
+809 Br:p 1 1 2 y X up
+810 Br:p 1 1 2 y X dn
+811 Br:p 1 1 2 y Y up
+812 Br:p 1 1 2 y Y dn
+813 Br:p 1 1 2 x Z up
+814 Br:p 1 1 2 x Z dn
+815 Br:p 1 1 2 x X up
+816 Br:p 1 1 2 x X dn
+817 Br:p 1 1 2 x Y up
+818 Br:p 1 1 2 x Y dn
+819 Br:p 2 1 2 z Z up
+820 Br:p 2 1 2 z Z dn
+821 Br:p 2 1 2 z X up
+822 Br:p 2 1 2 z X dn
+823 Br:p 2 1 2 z Y up
+824 Br:p 2 1 2 z Y dn
+825 Br:p 2 1 2 y Z up
+826 Br:p 2 1 2 y Z dn
+827 Br:p 2 1 2 y X up
+828 Br:p 2 1 2 y X dn
+829 Br:p 2 1 2 y Y up
+830 Br:p 2 1 2 y Y dn
+831 Br:p 2 1 2 x Z up
+832 Br:p 2 1 2 x Z dn
+833 Br:p 2 1 2 x X up
+834 Br:p 2 1 2 x X dn
+835 Br:p 2 1 2 x Y up
+836 Br:p 2 1 2 x Y dn
+837 Br:p 3 1 2 z Z up
+838 Br:p 3 1 2 z Z dn
+839 Br:p 3 1 2 z X up
+840 Br:p 3 1 2 z X dn
+841 Br:p 3 1 2 z Y up
+842 Br:p 3 1 2 z Y dn
+843 Br:p 3 1 2 y Z up
+844 Br:p 3 1 2 y Z dn
+845 Br:p 3 1 2 y X up
+846 Br:p 3 1 2 y X dn
+847 Br:p 3 1 2 y Y up
+848 Br:p 3 1 2 y Y dn
+849 Br:p 3 1 2 x Z up
+850 Br:p 3 1 2 x Z dn
+851 Br:p 3 1 2 x X up
+852 Br:p 3 1 2 x X dn
+853 Br:p 3 1 2 x Y up
+854 Br:p 3 1 2 x Y dn
+855 Br:p 4 1 2 z Z up
+856 Br:p 4 1 2 z Z dn
+857 Br:p 4 1 2 z X up
+858 Br:p 4 1 2 z X dn
+859 Br:p 4 1 2 z Y up
+860 Br:p 4 1 2 z Y dn
+861 Br:p 4 1 2 y Z up
+862 Br:p 4 1 2 y Z dn
+863 Br:p 4 1 2 y X up
+864 Br:p 4 1 2 y X dn
+865 Br:p 4 1 2 y Y up
+866 Br:p 4 1 2 y Y dn
+867 Br:p 4 1 2 x Z up
+868 Br:p 4 1 2 x Z dn
+869 Br:p 4 1 2 x X up
+870 Br:p 4 1 2 x X dn
+871 Br:p 4 1 2 x Y up
+872 Br:p 4 1 2 x Y dn
+873 Br:p 1 2 2 z Z up
+874 Br:p 1 2 2 z Z dn
+875 Br:p 1 2 2 z X up
+876 Br:p 1 2 2 z X dn
+877 Br:p 1 2 2 z Y up
+878 Br:p 1 2 2 z Y dn
+879 Br:p 1 2 2 y Z up
+880 Br:p 1 2 2 y Z dn
+881 Br:p 1 2 2 y X up
+882 Br:p 1 2 2 y X dn
+883 Br:p 1 2 2 y Y up
+884 Br:p 1 2 2 y Y dn
+885 Br:p 1 2 2 x Z up
+886 Br:p 1 2 2 x Z dn
+887 Br:p 1 2 2 x X up
+888 Br:p 1 2 2 x X dn
+889 Br:p 1 2 2 x Y up
+890 Br:p 1 2 2 x Y dn
+891 Br:p 2 2 2 z Z up
+892 Br:p 2 2 2 z Z dn
+893 Br:p 2 2 2 z X up
+894 Br:p 2 2 2 z X dn
+895 Br:p 2 2 2 z Y up
+896 Br:p 2 2 2 z Y dn
+897 Br:p 2 2 2 y Z up
+898 Br:p 2 2 2 y Z dn
+899 Br:p 2 2 2 y X up
+900 Br:p 2 2 2 y X dn
+901 Br:p 2 2 2 y Y up
+902 Br:p 2 2 2 y Y dn
+903 Br:p 2 2 2 x Z up
+904 Br:p 2 2 2 x Z dn
+905 Br:p 2 2 2 x X up
+906 Br:p 2 2 2 x X dn
+907 Br:p 2 2 2 x Y up
+908 Br:p 2 2 2 x Y dn
+909 Br:p 3 2 2 z Z up
+910 Br:p 3 2 2 z Z dn
+911 Br:p 3 2 2 z X up
+912 Br:p 3 2 2 z X dn
+913 Br:p 3 2 2 z Y up
+914 Br:p 3 2 2 z Y dn
+915 Br:p 3 2 2 y Z up
+916 Br:p 3 2 2 y Z dn
+917 Br:p 3 2 2 y X up
+918 Br:p 3 2 2 y X dn
+919 Br:p 3 2 2 y Y up
+920 Br:p 3 2 2 y Y dn
+921 Br:p 3 2 2 x Z up
+922 Br:p 3 2 2 x Z dn
+923 Br:p 3 2 2 x X up
+924 Br:p 3 2 2 x X dn
+925 Br:p 3 2 2 x Y up
+926 Br:p 3 2 2 x Y dn
+927 Br:p 4 2 2 z Z up
+928 Br:p 4 2 2 z Z dn
+929 Br:p 4 2 2 z X up
+930 Br:p 4 2 2 z X dn
+931 Br:p 4 2 2 z Y up
+932 Br:p 4 2 2 z Y dn
+933 Br:p 4 2 2 y Z up
+934 Br:p 4 2 2 y Z dn
+935 Br:p 4 2 2 y X up
+936 Br:p 4 2 2 y X dn
+937 Br:p 4 2 2 y Y up
+938 Br:p 4 2 2 y Y dn
+939 Br:p 4 2 2 x Z up
+940 Br:p 4 2 2 x Z dn
+941 Br:p 4 2 2 x X up
+942 Br:p 4 2 2 x X dn
+943 Br:p 4 2 2 x Y up
+944 Br:p 4 2 2 x Y dn
+945 Br:p 1 3 2 z Z up
+946 Br:p 1 3 2 z Z dn
+947 Br:p 1 3 2 z X up
+948 Br:p 1 3 2 z X dn
+949 Br:p 1 3 2 z Y up
+950 Br:p 1 3 2 z Y dn
+951 Br:p 1 3 2 y Z up
+952 Br:p 1 3 2 y Z dn
+953 Br:p 1 3 2 y X up
+954 Br:p 1 3 2 y X dn
+955 Br:p 1 3 2 y Y up
+956 Br:p 1 3 2 y Y dn
+957 Br:p 1 3 2 x Z up
+958 Br:p 1 3 2 x Z dn
+959 Br:p 1 3 2 x X up
+960 Br:p 1 3 2 x X dn
+961 Br:p 1 3 2 x Y up
+962 Br:p 1 3 2 x Y dn
+963 Br:p 2 3 2 z Z up
+964 Br:p 2 3 2 z Z dn
+965 Br:p 2 3 2 z X up
+966 Br:p 2 3 2 z X dn
+967 Br:p 2 3 2 z Y up
+968 Br:p 2 3 2 z Y dn
+969 Br:p 2 3 2 y Z up
+970 Br:p 2 3 2 y Z dn
+971 Br:p 2 3 2 y X up
+972 Br:p 2 3 2 y X dn
+973 Br:p 2 3 2 y Y up
+974 Br:p 2 3 2 y Y dn
+975 Br:p 2 3 2 x Z up
+976 Br:p 2 3 2 x Z dn
+977 Br:p 2 3 2 x X up
+978 Br:p 2 3 2 x X dn
+979 Br:p 2 3 2 x Y up
+980 Br:p 2 3 2 x Y dn
+981 Br:p 3 3 2 z Z up
+982 Br:p 3 3 2 z Z dn
+983 Br:p 3 3 2 z X up
+984 Br:p 3 3 2 z X dn
+985 Br:p 3 3 2 z Y up
+986 Br:p 3 3 2 z Y dn
+987 Br:p 3 3 2 y Z up
+988 Br:p 3 3 2 y Z dn
+989 Br:p 3 3 2 y X up
+990 Br:p 3 3 2 y X dn
+991 Br:p 3 3 2 y Y up
+992 Br:p 3 3 2 y Y dn
+993 Br:p 3 3 2 x Z up
+994 Br:p 3 3 2 x Z dn
+995 Br:p 3 3 2 x X up
+996 Br:p 3 3 2 x X dn
+997 Br:p 3 3 2 x Y up
+998 Br:p 3 3 2 x Y dn
+999 Br:p 4 3 2 z Z up
+1000 Br:p 4 3 2 z Z dn
+1001 Br:p 4 3 2 z X up
+1002 Br:p 4 3 2 z X dn
+1003 Br:p 4 3 2 z Y up
+1004 Br:p 4 3 2 z Y dn
+1005 Br:p 4 3 2 y Z up
+1006 Br:p 4 3 2 y Z dn
+1007 Br:p 4 3 2 y X up
+1008 Br:p 4 3 2 y X dn
+1009 Br:p 4 3 2 y Y up
+1010 Br:p 4 3 2 y Y dn
+1011 Br:p 4 3 2 x Z up
+1012 Br:p 4 3 2 x Z dn
+1013 Br:p 4 3 2 x X up
+1014 Br:p 4 3 2 x X dn
+1015 Br:p 4 3 2 x Y up
+1016 Br:p 4 3 2 x Y dn
+1017 Br:p 1 4 2 z Z up
+1018 Br:p 1 4 2 z Z dn
+1019 Br:p 1 4 2 z X up
+1020 Br:p 1 4 2 z X dn
+1021 Br:p 1 4 2 z Y up
+1022 Br:p 1 4 2 z Y dn
+1023 Br:p 1 4 2 y Z up
+1024 Br:p 1 4 2 y Z dn
+1025 Br:p 1 4 2 y X up
+1026 Br:p 1 4 2 y X dn
+1027 Br:p 1 4 2 y Y up
+1028 Br:p 1 4 2 y Y dn
+1029 Br:p 1 4 2 x Z up
+1030 Br:p 1 4 2 x Z dn
+1031 Br:p 1 4 2 x X up
+1032 Br:p 1 4 2 x X dn
+1033 Br:p 1 4 2 x Y up
+1034 Br:p 1 4 2 x Y dn
+1035 Br:p 2 4 2 z Z up
+1036 Br:p 2 4 2 z Z dn
+1037 Br:p 2 4 2 z X up
+1038 Br:p 2 4 2 z X dn
+1039 Br:p 2 4 2 z Y up
+1040 Br:p 2 4 2 z Y dn
+1041 Br:p 2 4 2 y Z up
+1042 Br:p 2 4 2 y Z dn
+1043 Br:p 2 4 2 y X up
+1044 Br:p 2 4 2 y X dn
+1045 Br:p 2 4 2 y Y up
+1046 Br:p 2 4 2 y Y dn
+1047 Br:p 2 4 2 x Z up
+1048 Br:p 2 4 2 x Z dn
+1049 Br:p 2 4 2 x X up
+1050 Br:p 2 4 2 x X dn
+1051 Br:p 2 4 2 x Y up
+1052 Br:p 2 4 2 x Y dn
+1053 Br:p 3 4 2 z Z up
+1054 Br:p 3 4 2 z Z dn
+1055 Br:p 3 4 2 z X up
+1056 Br:p 3 4 2 z X dn
+1057 Br:p 3 4 2 z Y up
+1058 Br:p 3 4 2 z Y dn
+1059 Br:p 3 4 2 y Z up
+1060 Br:p 3 4 2 y Z dn
+1061 Br:p 3 4 2 y X up
+1062 Br:p 3 4 2 y X dn
+1063 Br:p 3 4 2 y Y up
+1064 Br:p 3 4 2 y Y dn
+1065 Br:p 3 4 2 x Z up
+1066 Br:p 3 4 2 x Z dn
+1067 Br:p 3 4 2 x X up
+1068 Br:p 3 4 2 x X dn
+1069 Br:p 3 4 2 x Y up
+1070 Br:p 3 4 2 x Y dn
+1071 Br:p 4 4 2 z Z up
+1072 Br:p 4 4 2 z Z dn
+1073 Br:p 4 4 2 z X up
+1074 Br:p 4 4 2 z X dn
+1075 Br:p 4 4 2 z Y up
+1076 Br:p 4 4 2 z Y dn
+1077 Br:p 4 4 2 y Z up
+1078 Br:p 4 4 2 y Z dn
+1079 Br:p 4 4 2 y X up
+1080 Br:p 4 4 2 y X dn
+1081 Br:p 4 4 2 y Y up
+1082 Br:p 4 4 2 y Y dn
+1083 Br:p 4 4 2 x Z up
+1084 Br:p 4 4 2 x Z dn
+1085 Br:p 4 4 2 x X up
+1086 Br:p 4 4 2 x X dn
+1087 Br:p 4 4 2 x Y up
+1088 Br:p 4 4 2 x Y dn
+1089 Br:p 1 1 3 z Z up
+1090 Br:p 1 1 3 z Z dn
+1091 Br:p 1 1 3 z X up
+1092 Br:p 1 1 3 z X dn
+1093 Br:p 1 1 3 z Y up
+1094 Br:p 1 1 3 z Y dn
+1095 Br:p 1 1 3 y Z up
+1096 Br:p 1 1 3 y Z dn
+1097 Br:p 1 1 3 y X up
+1098 Br:p 1 1 3 y X dn
+1099 Br:p 1 1 3 y Y up
+1100 Br:p 1 1 3 y Y dn
+1101 Br:p 1 1 3 x Z up
+1102 Br:p 1 1 3 x Z dn
+1103 Br:p 1 1 3 x X up
+1104 Br:p 1 1 3 x X dn
+1105 Br:p 1 1 3 x Y up
+1106 Br:p 1 1 3 x Y dn
+1107 Br:p 2 1 3 z Z up
+1108 Br:p 2 1 3 z Z dn
+1109 Br:p 2 1 3 z X up
+1110 Br:p 2 1 3 z X dn
+1111 Br:p 2 1 3 z Y up
+1112 Br:p 2 1 3 z Y dn
+1113 Br:p 2 1 3 y Z up
+1114 Br:p 2 1 3 y Z dn
+1115 Br:p 2 1 3 y X up
+1116 Br:p 2 1 3 y X dn
+1117 Br:p 2 1 3 y Y up
+1118 Br:p 2 1 3 y Y dn
+1119 Br:p 2 1 3 x Z up
+1120 Br:p 2 1 3 x Z dn
+1121 Br:p 2 1 3 x X up
+1122 Br:p 2 1 3 x X dn
+1123 Br:p 2 1 3 x Y up
+1124 Br:p 2 1 3 x Y dn
+1125 Br:p 3 1 3 z Z up
+1126 Br:p 3 1 3 z Z dn
+1127 Br:p 3 1 3 z X up
+1128 Br:p 3 1 3 z X dn
+1129 Br:p 3 1 3 z Y up
+1130 Br:p 3 1 3 z Y dn
+1131 Br:p 3 1 3 y Z up
+1132 Br:p 3 1 3 y Z dn
+1133 Br:p 3 1 3 y X up
+1134 Br:p 3 1 3 y X dn
+1135 Br:p 3 1 3 y Y up
+1136 Br:p 3 1 3 y Y dn
+1137 Br:p 3 1 3 x Z up
+1138 Br:p 3 1 3 x Z dn
+1139 Br:p 3 1 3 x X up
+1140 Br:p 3 1 3 x X dn
+1141 Br:p 3 1 3 x Y up
+1142 Br:p 3 1 3 x Y dn
+1143 Br:p 4 1 3 z Z up
+1144 Br:p 4 1 3 z Z dn
+1145 Br:p 4 1 3 z X up
+1146 Br:p 4 1 3 z X dn
+1147 Br:p 4 1 3 z Y up
+1148 Br:p 4 1 3 z Y dn
+1149 Br:p 4 1 3 y Z up
+1150 Br:p 4 1 3 y Z dn
+1151 Br:p 4 1 3 y X up
+1152 Br:p 4 1 3 y X dn
+1153 Br:p 4 1 3 y Y up
+1154 Br:p 4 1 3 y Y dn
+1155 Br:p 4 1 3 x Z up
+1156 Br:p 4 1 3 x Z dn
+1157 Br:p 4 1 3 x X up
+1158 Br:p 4 1 3 x X dn
+1159 Br:p 4 1 3 x Y up
+1160 Br:p 4 1 3 x Y dn
+1161 Br:p 1 2 3 z Z up
+1162 Br:p 1 2 3 z Z dn
+1163 Br:p 1 2 3 z X up
+1164 Br:p 1 2 3 z X dn
+1165 Br:p 1 2 3 z Y up
+1166 Br:p 1 2 3 z Y dn
+1167 Br:p 1 2 3 y Z up
+1168 Br:p 1 2 3 y Z dn
+1169 Br:p 1 2 3 y X up
+1170 Br:p 1 2 3 y X dn
+1171 Br:p 1 2 3 y Y up
+1172 Br:p 1 2 3 y Y dn
+1173 Br:p 1 2 3 x Z up
+1174 Br:p 1 2 3 x Z dn
+1175 Br:p 1 2 3 x X up
+1176 Br:p 1 2 3 x X dn
+1177 Br:p 1 2 3 x Y up
+1178 Br:p 1 2 3 x Y dn
+1179 Br:p 2 2 3 z Z up
+1180 Br:p 2 2 3 z Z dn
+1181 Br:p 2 2 3 z X up
+1182 Br:p 2 2 3 z X dn
+1183 Br:p 2 2 3 z Y up
+1184 Br:p 2 2 3 z Y dn
+1185 Br:p 2 2 3 y Z up
+1186 Br:p 2 2 3 y Z dn
+1187 Br:p 2 2 3 y X up
+1188 Br:p 2 2 3 y X dn
+1189 Br:p 2 2 3 y Y up
+1190 Br:p 2 2 3 y Y dn
+1191 Br:p 2 2 3 x Z up
+1192 Br:p 2 2 3 x Z dn
+1193 Br:p 2 2 3 x X up
+1194 Br:p 2 2 3 x X dn
+1195 Br:p 2 2 3 x Y up
+1196 Br:p 2 2 3 x Y dn
+1197 Br:p 3 2 3 z Z up
+1198 Br:p 3 2 3 z Z dn
+1199 Br:p 3 2 3 z X up
+1200 Br:p 3 2 3 z X dn
+1201 Br:p 3 2 3 z Y up
+1202 Br:p 3 2 3 z Y dn
+1203 Br:p 3 2 3 y Z up
+1204 Br:p 3 2 3 y Z dn
+1205 Br:p 3 2 3 y X up
+1206 Br:p 3 2 3 y X dn
+1207 Br:p 3 2 3 y Y up
+1208 Br:p 3 2 3 y Y dn
+1209 Br:p 3 2 3 x Z up
+1210 Br:p 3 2 3 x Z dn
+1211 Br:p 3 2 3 x X up
+1212 Br:p 3 2 3 x X dn
+1213 Br:p 3 2 3 x Y up
+1214 Br:p 3 2 3 x Y dn
+1215 Br:p 4 2 3 z Z up
+1216 Br:p 4 2 3 z Z dn
+1217 Br:p 4 2 3 z X up
+1218 Br:p 4 2 3 z X dn
+1219 Br:p 4 2 3 z Y up
+1220 Br:p 4 2 3 z Y dn
+1221 Br:p 4 2 3 y Z up
+1222 Br:p 4 2 3 y Z dn
+1223 Br:p 4 2 3 y X up
+1224 Br:p 4 2 3 y X dn
+1225 Br:p 4 2 3 y Y up
+1226 Br:p 4 2 3 y Y dn
+1227 Br:p 4 2 3 x Z up
+1228 Br:p 4 2 3 x Z dn
+1229 Br:p 4 2 3 x X up
+1230 Br:p 4 2 3 x X dn
+1231 Br:p 4 2 3 x Y up
+1232 Br:p 4 2 3 x Y dn
+1233 Br:p 1 3 3 z Z up
+1234 Br:p 1 3 3 z Z dn
+1235 Br:p 1 3 3 z X up
+1236 Br:p 1 3 3 z X dn
+1237 Br:p 1 3 3 z Y up
+1238 Br:p 1 3 3 z Y dn
+1239 Br:p 1 3 3 y Z up
+1240 Br:p 1 3 3 y Z dn
+1241 Br:p 1 3 3 y X up
+1242 Br:p 1 3 3 y X dn
+1243 Br:p 1 3 3 y Y up
+1244 Br:p 1 3 3 y Y dn
+1245 Br:p 1 3 3 x Z up
+1246 Br:p 1 3 3 x Z dn
+1247 Br:p 1 3 3 x X up
+1248 Br:p 1 3 3 x X dn
+1249 Br:p 1 3 3 x Y up
+1250 Br:p 1 3 3 x Y dn
+1251 Br:p 2 3 3 z Z up
+1252 Br:p 2 3 3 z Z dn
+1253 Br:p 2 3 3 z X up
+1254 Br:p 2 3 3 z X dn
+1255 Br:p 2 3 3 z Y up
+1256 Br:p 2 3 3 z Y dn
+1257 Br:p 2 3 3 y Z up
+1258 Br:p 2 3 3 y Z dn
+1259 Br:p 2 3 3 y X up
+1260 Br:p 2 3 3 y X dn
+1261 Br:p 2 3 3 y Y up
+1262 Br:p 2 3 3 y Y dn
+1263 Br:p 2 3 3 x Z up
+1264 Br:p 2 3 3 x Z dn
+1265 Br:p 2 3 3 x X up
+1266 Br:p 2 3 3 x X dn
+1267 Br:p 2 3 3 x Y up
+1268 Br:p 2 3 3 x Y dn
+1269 Br:p 3 3 3 z Z up
+1270 Br:p 3 3 3 z Z dn
+1271 Br:p 3 3 3 z X up
+1272 Br:p 3 3 3 z X dn
+1273 Br:p 3 3 3 z Y up
+1274 Br:p 3 3 3 z Y dn
+1275 Br:p 3 3 3 y Z up
+1276 Br:p 3 3 3 y Z dn
+1277 Br:p 3 3 3 y X up
+1278 Br:p 3 3 3 y X dn
+1279 Br:p 3 3 3 y Y up
+1280 Br:p 3 3 3 y Y dn
+1281 Br:p 3 3 3 x Z up
+1282 Br:p 3 3 3 x Z dn
+1283 Br:p 3 3 3 x X up
+1284 Br:p 3 3 3 x X dn
+1285 Br:p 3 3 3 x Y up
+1286 Br:p 3 3 3 x Y dn
+1287 Br:p 4 3 3 z Z up
+1288 Br:p 4 3 3 z Z dn
+1289 Br:p 4 3 3 z X up
+1290 Br:p 4 3 3 z X dn
+1291 Br:p 4 3 3 z Y up
+1292 Br:p 4 3 3 z Y dn
+1293 Br:p 4 3 3 y Z up
+1294 Br:p 4 3 3 y Z dn
+1295 Br:p 4 3 3 y X up
+1296 Br:p 4 3 3 y X dn
+1297 Br:p 4 3 3 y Y up
+1298 Br:p 4 3 3 y Y dn
+1299 Br:p 4 3 3 x Z up
+1300 Br:p 4 3 3 x Z dn
+1301 Br:p 4 3 3 x X up
+1302 Br:p 4 3 3 x X dn
+1303 Br:p 4 3 3 x Y up
+1304 Br:p 4 3 3 x Y dn
+1305 Br:p 1 4 3 z Z up
+1306 Br:p 1 4 3 z Z dn
+1307 Br:p 1 4 3 z X up
+1308 Br:p 1 4 3 z X dn
+1309 Br:p 1 4 3 z Y up
+1310 Br:p 1 4 3 z Y dn
+1311 Br:p 1 4 3 y Z up
+1312 Br:p 1 4 3 y Z dn
+1313 Br:p 1 4 3 y X up
+1314 Br:p 1 4 3 y X dn
+1315 Br:p 1 4 3 y Y up
+1316 Br:p 1 4 3 y Y dn
+1317 Br:p 1 4 3 x Z up
+1318 Br:p 1 4 3 x Z dn
+1319 Br:p 1 4 3 x X up
+1320 Br:p 1 4 3 x X dn
+1321 Br:p 1 4 3 x Y up
+1322 Br:p 1 4 3 x Y dn
+1323 Br:p 2 4 3 z Z up
+1324 Br:p 2 4 3 z Z dn
+1325 Br:p 2 4 3 z X up
+1326 Br:p 2 4 3 z X dn
+1327 Br:p 2 4 3 z Y up
+1328 Br:p 2 4 3 z Y dn
+1329 Br:p 2 4 3 y Z up
+1330 Br:p 2 4 3 y Z dn
+1331 Br:p 2 4 3 y X up
+1332 Br:p 2 4 3 y X dn
+1333 Br:p 2 4 3 y Y up
+1334 Br:p 2 4 3 y Y dn
+1335 Br:p 2 4 3 x Z up
+1336 Br:p 2 4 3 x Z dn
+1337 Br:p 2 4 3 x X up
+1338 Br:p 2 4 3 x X dn
+1339 Br:p 2 4 3 x Y up
+1340 Br:p 2 4 3 x Y dn
+1341 Br:p 3 4 3 z Z up
+1342 Br:p 3 4 3 z Z dn
+1343 Br:p 3 4 3 z X up
+1344 Br:p 3 4 3 z X dn
+1345 Br:p 3 4 3 z Y up
+1346 Br:p 3 4 3 z Y dn
+1347 Br:p 3 4 3 y Z up
+1348 Br:p 3 4 3 y Z dn
+1349 Br:p 3 4 3 y X up
+1350 Br:p 3 4 3 y X dn
+1351 Br:p 3 4 3 y Y up
+1352 Br:p 3 4 3 y Y dn
+1353 Br:p 3 4 3 x Z up
+1354 Br:p 3 4 3 x Z dn
+1355 Br:p 3 4 3 x X up
+1356 Br:p 3 4 3 x X dn
+1357 Br:p 3 4 3 x Y up
+1358 Br:p 3 4 3 x Y dn
+1359 Br:p 4 4 3 z Z up
+1360 Br:p 4 4 3 z Z dn
+1361 Br:p 4 4 3 z X up
+1362 Br:p 4 4 3 z X dn
+1363 Br:p 4 4 3 z Y up
+1364 Br:p 4 4 3 z Y dn
+1365 Br:p 4 4 3 y Z up
+1366 Br:p 4 4 3 y Z dn
+1367 Br:p 4 4 3 y X up
+1368 Br:p 4 4 3 y X dn
+1369 Br:p 4 4 3 y Y up
+1370 Br:p 4 4 3 y Y dn
+1371 Br:p 4 4 3 x Z up
+1372 Br:p 4 4 3 x Z dn
+1373 Br:p 4 4 3 x X up
+1374 Br:p 4 4 3 x X dn
+1375 Br:p 4 4 3 x Y up
+1376 Br:p 4 4 3 x Y dn
+1377 Br:p 1 1 4 z Z up
+1378 Br:p 1 1 4 z Z dn
+1379 Br:p 1 1 4 z X up
+1380 Br:p 1 1 4 z X dn
+1381 Br:p 1 1 4 z Y up
+1382 Br:p 1 1 4 z Y dn
+1383 Br:p 1 1 4 y Z up
+1384 Br:p 1 1 4 y Z dn
+1385 Br:p 1 1 4 y X up
+1386 Br:p 1 1 4 y X dn
+1387 Br:p 1 1 4 y Y up
+1388 Br:p 1 1 4 y Y dn
+1389 Br:p 1 1 4 x Z up
+1390 Br:p 1 1 4 x Z dn
+1391 Br:p 1 1 4 x X up
+1392 Br:p 1 1 4 x X dn
+1393 Br:p 1 1 4 x Y up
+1394 Br:p 1 1 4 x Y dn
+1395 Br:p 2 1 4 z Z up
+1396 Br:p 2 1 4 z Z dn
+1397 Br:p 2 1 4 z X up
+1398 Br:p 2 1 4 z X dn
+1399 Br:p 2 1 4 z Y up
+1400 Br:p 2 1 4 z Y dn
+1401 Br:p 2 1 4 y Z up
+1402 Br:p 2 1 4 y Z dn
+1403 Br:p 2 1 4 y X up
+1404 Br:p 2 1 4 y X dn
+1405 Br:p 2 1 4 y Y up
+1406 Br:p 2 1 4 y Y dn
+1407 Br:p 2 1 4 x Z up
+1408 Br:p 2 1 4 x Z dn
+1409 Br:p 2 1 4 x X up
+1410 Br:p 2 1 4 x X dn
+1411 Br:p 2 1 4 x Y up
+1412 Br:p 2 1 4 x Y dn
+1413 Br:p 3 1 4 z Z up
+1414 Br:p 3 1 4 z Z dn
+1415 Br:p 3 1 4 z X up
+1416 Br:p 3 1 4 z X dn
+1417 Br:p 3 1 4 z Y up
+1418 Br:p 3 1 4 z Y dn
+1419 Br:p 3 1 4 y Z up
+1420 Br:p 3 1 4 y Z dn
+1421 Br:p 3 1 4 y X up
+1422 Br:p 3 1 4 y X dn
+1423 Br:p 3 1 4 y Y up
+1424 Br:p 3 1 4 y Y dn
+1425 Br:p 3 1 4 x Z up
+1426 Br:p 3 1 4 x Z dn
+1427 Br:p 3 1 4 x X up
+1428 Br:p 3 1 4 x X dn
+1429 Br:p 3 1 4 x Y up
+1430 Br:p 3 1 4 x Y dn
+1431 Br:p 4 1 4 z Z up
+1432 Br:p 4 1 4 z Z dn
+1433 Br:p 4 1 4 z X up
+1434 Br:p 4 1 4 z X dn
+1435 Br:p 4 1 4 z Y up
+1436 Br:p 4 1 4 z Y dn
+1437 Br:p 4 1 4 y Z up
+1438 Br:p 4 1 4 y Z dn
+1439 Br:p 4 1 4 y X up
+1440 Br:p 4 1 4 y X dn
+1441 Br:p 4 1 4 y Y up
+1442 Br:p 4 1 4 y Y dn
+1443 Br:p 4 1 4 x Z up
+1444 Br:p 4 1 4 x Z dn
+1445 Br:p 4 1 4 x X up
+1446 Br:p 4 1 4 x X dn
+1447 Br:p 4 1 4 x Y up
+1448 Br:p 4 1 4 x Y dn
+1449 Br:p 1 2 4 z Z up
+1450 Br:p 1 2 4 z Z dn
+1451 Br:p 1 2 4 z X up
+1452 Br:p 1 2 4 z X dn
+1453 Br:p 1 2 4 z Y up
+1454 Br:p 1 2 4 z Y dn
+1455 Br:p 1 2 4 y Z up
+1456 Br:p 1 2 4 y Z dn
+1457 Br:p 1 2 4 y X up
+1458 Br:p 1 2 4 y X dn
+1459 Br:p 1 2 4 y Y up
+1460 Br:p 1 2 4 y Y dn
+1461 Br:p 1 2 4 x Z up
+1462 Br:p 1 2 4 x Z dn
+1463 Br:p 1 2 4 x X up
+1464 Br:p 1 2 4 x X dn
+1465 Br:p 1 2 4 x Y up
+1466 Br:p 1 2 4 x Y dn
+1467 Br:p 2 2 4 z Z up
+1468 Br:p 2 2 4 z Z dn
+1469 Br:p 2 2 4 z X up
+1470 Br:p 2 2 4 z X dn
+1471 Br:p 2 2 4 z Y up
+1472 Br:p 2 2 4 z Y dn
+1473 Br:p 2 2 4 y Z up
+1474 Br:p 2 2 4 y Z dn
+1475 Br:p 2 2 4 y X up
+1476 Br:p 2 2 4 y X dn
+1477 Br:p 2 2 4 y Y up
+1478 Br:p 2 2 4 y Y dn
+1479 Br:p 2 2 4 x Z up
+1480 Br:p 2 2 4 x Z dn
+1481 Br:p 2 2 4 x X up
+1482 Br:p 2 2 4 x X dn
+1483 Br:p 2 2 4 x Y up
+1484 Br:p 2 2 4 x Y dn
+1485 Br:p 3 2 4 z Z up
+1486 Br:p 3 2 4 z Z dn
+1487 Br:p 3 2 4 z X up
+1488 Br:p 3 2 4 z X dn
+1489 Br:p 3 2 4 z Y up
+1490 Br:p 3 2 4 z Y dn
+1491 Br:p 3 2 4 y Z up
+1492 Br:p 3 2 4 y Z dn
+1493 Br:p 3 2 4 y X up
+1494 Br:p 3 2 4 y X dn
+1495 Br:p 3 2 4 y Y up
+1496 Br:p 3 2 4 y Y dn
+1497 Br:p 3 2 4 x Z up
+1498 Br:p 3 2 4 x Z dn
+1499 Br:p 3 2 4 x X up
+1500 Br:p 3 2 4 x X dn
+1501 Br:p 3 2 4 x Y up
+1502 Br:p 3 2 4 x Y dn
+1503 Br:p 4 2 4 z Z up
+1504 Br:p 4 2 4 z Z dn
+1505 Br:p 4 2 4 z X up
+1506 Br:p 4 2 4 z X dn
+1507 Br:p 4 2 4 z Y up
+1508 Br:p 4 2 4 z Y dn
+1509 Br:p 4 2 4 y Z up
+1510 Br:p 4 2 4 y Z dn
+1511 Br:p 4 2 4 y X up
+1512 Br:p 4 2 4 y X dn
+1513 Br:p 4 2 4 y Y up
+1514 Br:p 4 2 4 y Y dn
+1515 Br:p 4 2 4 x Z up
+1516 Br:p 4 2 4 x Z dn
+1517 Br:p 4 2 4 x X up
+1518 Br:p 4 2 4 x X dn
+1519 Br:p 4 2 4 x Y up
+1520 Br:p 4 2 4 x Y dn
+1521 Br:p 1 3 4 z Z up
+1522 Br:p 1 3 4 z Z dn
+1523 Br:p 1 3 4 z X up
+1524 Br:p 1 3 4 z X dn
+1525 Br:p 1 3 4 z Y up
+1526 Br:p 1 3 4 z Y dn
+1527 Br:p 1 3 4 y Z up
+1528 Br:p 1 3 4 y Z dn
+1529 Br:p 1 3 4 y X up
+1530 Br:p 1 3 4 y X dn
+1531 Br:p 1 3 4 y Y up
+1532 Br:p 1 3 4 y Y dn
+1533 Br:p 1 3 4 x Z up
+1534 Br:p 1 3 4 x Z dn
+1535 Br:p 1 3 4 x X up
+1536 Br:p 1 3 4 x X dn
+1537 Br:p 1 3 4 x Y up
+1538 Br:p 1 3 4 x Y dn
+1539 Br:p 2 3 4 z Z up
+1540 Br:p 2 3 4 z Z dn
+1541 Br:p 2 3 4 z X up
+1542 Br:p 2 3 4 z X dn
+1543 Br:p 2 3 4 z Y up
+1544 Br:p 2 3 4 z Y dn
+1545 Br:p 2 3 4 y Z up
+1546 Br:p 2 3 4 y Z dn
+1547 Br:p 2 3 4 y X up
+1548 Br:p 2 3 4 y X dn
+1549 Br:p 2 3 4 y Y up
+1550 Br:p 2 3 4 y Y dn
+1551 Br:p 2 3 4 x Z up
+1552 Br:p 2 3 4 x Z dn
+1553 Br:p 2 3 4 x X up
+1554 Br:p 2 3 4 x X dn
+1555 Br:p 2 3 4 x Y up
+1556 Br:p 2 3 4 x Y dn
+1557 Br:p 3 3 4 z Z up
+1558 Br:p 3 3 4 z Z dn
+1559 Br:p 3 3 4 z X up
+1560 Br:p 3 3 4 z X dn
+1561 Br:p 3 3 4 z Y up
+1562 Br:p 3 3 4 z Y dn
+1563 Br:p 3 3 4 y Z up
+1564 Br:p 3 3 4 y Z dn
+1565 Br:p 3 3 4 y X up
+1566 Br:p 3 3 4 y X dn
+1567 Br:p 3 3 4 y Y up
+1568 Br:p 3 3 4 y Y dn
+1569 Br:p 3 3 4 x Z up
+1570 Br:p 3 3 4 x Z dn
+1571 Br:p 3 3 4 x X up
+1572 Br:p 3 3 4 x X dn
+1573 Br:p 3 3 4 x Y up
+1574 Br:p 3 3 4 x Y dn
+1575 Br:p 4 3 4 z Z up
+1576 Br:p 4 3 4 z Z dn
+1577 Br:p 4 3 4 z X up
+1578 Br:p 4 3 4 z X dn
+1579 Br:p 4 3 4 z Y up
+1580 Br:p 4 3 4 z Y dn
+1581 Br:p 4 3 4 y Z up
+1582 Br:p 4 3 4 y Z dn
+1583 Br:p 4 3 4 y X up
+1584 Br:p 4 3 4 y X dn
+1585 Br:p 4 3 4 y Y up
+1586 Br:p 4 3 4 y Y dn
+1587 Br:p 4 3 4 x Z up
+1588 Br:p 4 3 4 x Z dn
+1589 Br:p 4 3 4 x X up
+1590 Br:p 4 3 4 x X dn
+1591 Br:p 4 3 4 x Y up
+1592 Br:p 4 3 4 x Y dn
+1593 Br:p 1 4 4 z Z up
+1594 Br:p 1 4 4 z Z dn
+1595 Br:p 1 4 4 z X up
+1596 Br:p 1 4 4 z X dn
+1597 Br:p 1 4 4 z Y up
+1598 Br:p 1 4 4 z Y dn
+1599 Br:p 1 4 4 y Z up
+1600 Br:p 1 4 4 y Z dn
+1601 Br:p 1 4 4 y X up
+1602 Br:p 1 4 4 y X dn
+1603 Br:p 1 4 4 y Y up
+1604 Br:p 1 4 4 y Y dn
+1605 Br:p 1 4 4 x Z up
+1606 Br:p 1 4 4 x Z dn
+1607 Br:p 1 4 4 x X up
+1608 Br:p 1 4 4 x X dn
+1609 Br:p 1 4 4 x Y up
+1610 Br:p 1 4 4 x Y dn
+1611 Br:p 2 4 4 z Z up
+1612 Br:p 2 4 4 z Z dn
+1613 Br:p 2 4 4 z X up
+1614 Br:p 2 4 4 z X dn
+1615 Br:p 2 4 4 z Y up
+1616 Br:p 2 4 4 z Y dn
+1617 Br:p 2 4 4 y Z up
+1618 Br:p 2 4 4 y Z dn
+1619 Br:p 2 4 4 y X up
+1620 Br:p 2 4 4 y X dn
+1621 Br:p 2 4 4 y Y up
+1622 Br:p 2 4 4 y Y dn
+1623 Br:p 2 4 4 x Z up
+1624 Br:p 2 4 4 x Z dn
+1625 Br:p 2 4 4 x X up
+1626 Br:p 2 4 4 x X dn
+1627 Br:p 2 4 4 x Y up
+1628 Br:p 2 4 4 x Y dn
+1629 Br:p 3 4 4 z Z up
+1630 Br:p 3 4 4 z Z dn
+1631 Br:p 3 4 4 z X up
+1632 Br:p 3 4 4 z X dn
+1633 Br:p 3 4 4 z Y up
+1634 Br:p 3 4 4 z Y dn
+1635 Br:p 3 4 4 y Z up
+1636 Br:p 3 4 4 y Z dn
+1637 Br:p 3 4 4 y X up
+1638 Br:p 3 4 4 y X dn
+1639 Br:p 3 4 4 y Y up
+1640 Br:p 3 4 4 y Y dn
+1641 Br:p 3 4 4 x Z up
+1642 Br:p 3 4 4 x Z dn
+1643 Br:p 3 4 4 x X up
+1644 Br:p 3 4 4 x X dn
+1645 Br:p 3 4 4 x Y up
+1646 Br:p 3 4 4 x Y dn
+1647 Br:p 4 4 4 z Z up
+1648 Br:p 4 4 4 z Z dn
+1649 Br:p 4 4 4 z X up
+1650 Br:p 4 4 4 z X dn
+1651 Br:p 4 4 4 z Y up
+1652 Br:p 4 4 4 z Y dn
+1653 Br:p 4 4 4 y Z up
+1654 Br:p 4 4 4 y Z dn
+1655 Br:p 4 4 4 y X up
+1656 Br:p 4 4 4 y X dn
+1657 Br:p 4 4 4 y Y up
+1658 Br:p 4 4 4 y Y dn
+1659 Br:p 4 4 4 x Z up
+1660 Br:p 4 4 4 x Z dn
+1661 Br:p 4 4 4 x X up
+1662 Br:p 4 4 4 x X dn
+1663 Br:p 4 4 4 x Y up
+1664 Br:p 4 4 4 x Y dn

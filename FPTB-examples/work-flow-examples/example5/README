@@ -1,0 +1,9 @@
+Calculates energy bands using blot C++ code (https://gitlab.com/mf-photophysics/blot)  
+Same atomic coordinates and parameters as ../example4
+
+instructions:  
+export SLEPC_DIR= ...  
+enter blot and eigen include directories into makefile  
+make bands  
+./bands
+python3 plot.py  

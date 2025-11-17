@@ -7,3 +7,4 @@ Folder contain the following:
 
   FPTB-Data           : data from FPTB simulations
 
+  FPTB-examples       : examples for workflow and helper scripts for runing FPTB with ML 

@@ -1,0 +1,208 @@
+1 Pb:s 1 1 1 up
+2 Pb:s 1 1 1 dn
+3 Pb:p 1 1 1 X up
+4 Pb:p 1 1 1 X dn
+5 Pb:p 1 1 1 Y up
+6 Pb:p 1 1 1 Y dn
+7 Pb:p 1 1 1 Z up
+8 Pb:p 1 1 1 Z dn
+9 I:p 1 1 1 x X up
+10 I:p 1 1 1 x X dn
+11 I:p 1 1 1 x Y up
+12 I:p 1 1 1 x Y dn
+13 I:p 1 1 1 x Z up
+14 I:p 1 1 1 x Z dn
+15 I:p 1 1 1 y X up
+16 I:p 1 1 1 y X dn
+17 I:p 1 1 1 y Y up
+18 I:p 1 1 1 y Y dn
+19 I:p 1 1 1 y Z up
+20 I:p 1 1 1 y Z dn
+21 I:p 1 1 1 z X up
+22 I:p 1 1 1 z X dn
+23 I:p 1 1 1 z Y up
+24 I:p 1 1 1 z Y dn
+25 I:p 1 1 1 z Z up
+26 I:p 1 1 1 z Z dn
+27 Pb:s 1 1 2 up
+28 Pb:s 1 1 2 dn
+29 Pb:p 1 1 2 X up
+30 Pb:p 1 1 2 X dn
+31 Pb:p 1 1 2 Y up
+32 Pb:p 1 1 2 Y dn
+33 Pb:p 1 1 2 Z up
+34 Pb:p 1 1 2 Z dn
+35 I:p 1 1 2 x X up
+36 I:p 1 1 2 x X dn
+37 I:p 1 1 2 x Y up
+38 I:p 1 1 2 x Y dn
+39 I:p 1 1 2 x Z up
+40 I:p 1 1 2 x Z dn
+41 I:p 1 1 2 y X up
+42 I:p 1 1 2 y X dn
+43 I:p 1 1 2 y Y up
+44 I:p 1 1 2 y Y dn
+45 I:p 1 1 2 y Z up
+46 I:p 1 1 2 y Z dn
+47 I:p 1 1 2 z X up
+48 I:p 1 1 2 z X dn
+49 I:p 1 1 2 z Y up
+50 I:p 1 1 2 z Y dn
+51 I:p 1 1 2 z Z up
+52 I:p 1 1 2 z Z dn
+53 Pb:s 1 2 1 up
+54 Pb:s 1 2 1 dn
+55 Pb:p 1 2 1 X up
+56 Pb:p 1 2 1 X dn
+57 Pb:p 1 2 1 Y up
+58 Pb:p 1 2 1 Y dn
+59 Pb:p 1 2 1 Z up
+60 Pb:p 1 2 1 Z dn
+61 I:p 1 2 1 x X up
+62 I:p 1 2 1 x X dn
+63 I:p 1 2 1 x Y up
+64 I:p 1 2 1 x Y dn
+65 I:p 1 2 1 x Z up
+66 I:p 1 2 1 x Z dn
+67 I:p 1 2 1 y X up
+68 I:p 1 2 1 y X dn
+69 I:p 1 2 1 y Y up
+70 I:p 1 2 1 y Y dn
+71 I:p 1 2 1 y Z up
+72 I:p 1 2 1 y Z dn
+73 I:p 1 2 1 z X up
+74 I:p 1 2 1 z X dn
+75 I:p 1 2 1 z Y up
+76 I:p 1 2 1 z Y dn
+77 I:p 1 2 1 z Z up
+78 I:p 1 2 1 z Z dn
+79 Pb:s 1 2 2 up
+80 Pb:s 1 2 2 dn
+81 Pb:p 1 2 2 X up
+82 Pb:p 1 2 2 X dn
+83 Pb:p 1 2 2 Y up
+84 Pb:p 1 2 2 Y dn
+85 Pb:p 1 2 2 Z up
+86 Pb:p 1 2 2 Z dn
+87 I:p 1 2 2 x X up
+88 I:p 1 2 2 x X dn
+89 I:p 1 2 2 x Y up
+90 I:p 1 2 2 x Y dn
+91 I:p 1 2 2 x Z up
+92 I:p 1 2 2 x Z dn
+93 I:p 1 2 2 y X up
+94 I:p 1 2 2 y X dn
+95 I:p 1 2 2 y Y up
+96 I:p 1 2 2 y Y dn
+97 I:p 1 2 2 y Z up
+98 I:p 1 2 2 y Z dn
+99 I:p 1 2 2 z X up
+100 I:p 1 2 2 z X dn
+101 I:p 1 2 2 z Y up
+102 I:p 1 2 2 z Y dn
+103 I:p 1 2 2 z Z up
+104 I:p 1 2 2 z Z dn
+105 Pb:s 2 1 1 up
+106 Pb:s 2 1 1 dn
+107 Pb:p 2 1 1 X up
+108 Pb:p 2 1 1 X dn
+109 Pb:p 2 1 1 Y up
+110 Pb:p 2 1 1 Y dn
+111 Pb:p 2 1 1 Z up
+112 Pb:p 2 1 1 Z dn
+113 I:p 2 1 1 x X up
+114 I:p 2 1 1 x X dn
+115 I:p 2 1 1 x Y up
+116 I:p 2 1 1 x Y dn
+117 I:p 2 1 1 x Z up
+118 I:p 2 1 1 x Z dn
+119 I:p 2 1 1 y X up
+120 I:p 2 1 1 y X dn
+121 I:p 2 1 1 y Y up
+122 I:p 2 1 1 y Y dn
+123 I:p 2 1 1 y Z up
+124 I:p 2 1 1 y Z dn
+125 I:p 2 1 1 z X up
+126 I:p 2 1 1 z X dn
+127 I:p 2 1 1 z Y up
+128 I:p 2 1 1 z Y dn
+129 I:p 2 1 1 z Z up
+130 I:p 2 1 1 z Z dn
+131 Pb:s 2 1 2 up
+132 Pb:s 2 1 2 dn
+133 Pb:p 2 1 2 X up
+134 Pb:p 2 1 2 X dn
+135 Pb:p 2 1 2 Y up
+136 Pb:p 2 1 2 Y dn
+137 Pb:p 2 1 2 Z up
+138 Pb:p 2 1 2 Z dn
+139 I:p 2 1 2 x X up
+140 I:p 2 1 2 x X dn
+141 I:p 2 1 2 x Y up
+142 I:p 2 1 2 x Y dn
+143 I:p 2 1 2 x Z up
+144 I:p 2 1 2 x Z dn
+145 I:p 2 1 2 y X up
+146 I:p 2 1 2 y X dn
+147 I:p 2 1 2 y Y up
+148 I:p 2 1 2 y Y dn
+149 I:p 2 1 2 y Z up
+150 I:p 2 1 2 y Z dn
+151 I:p 2 1 2 z X up
+152 I:p 2 1 2 z X dn
+153 I:p 2 1 2 z Y up
+154 I:p 2 1 2 z Y dn
+155 I:p 2 1 2 z Z up
+156 I:p 2 1 2 z Z dn
+157 Pb:s 2 2 1 up
+158 Pb:s 2 2 1 dn
+159 Pb:p 2 2 1 X up
+160 Pb:p 2 2 1 X dn
+161 Pb:p 2 2 1 Y up
+162 Pb:p 2 2 1 Y dn
+163 Pb:p 2 2 1 Z up
+164 Pb:p 2 2 1 Z dn
+165 I:p 2 2 1 x X up
+166 I:p 2 2 1 x X dn
+167 I:p 2 2 1 x Y up
+168 I:p 2 2 1 x Y dn
+169 I:p 2 2 1 x Z up
+170 I:p 2 2 1 x Z dn
+171 I:p 2 2 1 y X up
+172 I:p 2 2 1 y X dn
+173 I:p 2 2 1 y Y up
+174 I:p 2 2 1 y Y dn
+175 I:p 2 2 1 y Z up
+176 I:p 2 2 1 y Z dn
+177 I:p 2 2 1 z X up
+178 I:p 2 2 1 z X dn
+179 I:p 2 2 1 z Y up
+180 I:p 2 2 1 z Y dn
+181 I:p 2 2 1 z Z up
+182 I:p 2 2 1 z Z dn
+183 Pb:s 2 2 2 up
+184 Pb:s 2 2 2 dn
+185 Pb:p 2 2 2 X up
+186 Pb:p 2 2 2 X dn
+187 Pb:p 2 2 2 Y up
+188 Pb:p 2 2 2 Y dn
+189 Pb:p 2 2 2 Z up
+190 Pb:p 2 2 2 Z dn
+191 I:p 2 2 2 x X up
+192 I:p 2 2 2 x X dn
+193 I:p 2 2 2 x Y up
+194 I:p 2 2 2 x Y dn
+195 I:p 2 2 2 x Z up
+196 I:p 2 2 2 x Z dn
+197 I:p 2 2 2 y X up
+198 I:p 2 2 2 y X dn
+199 I:p 2 2 2 y Y up
+200 I:p 2 2 2 y Y dn
+201 I:p 2 2 2 y Z up
+202 I:p 2 2 2 y Z dn
+203 I:p 2 2 2 z X up
+204 I:p 2 2 2 z X dn
+205 I:p 2 2 2 z Y up
+206 I:p 2 2 2 z Y dn
+207 I:p 2 2 2 z Z up
+208 I:p 2 2 2 z Z dn

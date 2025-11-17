@@ -1,0 +1,8 @@
+&inputpp
+  outdir = '/global/cscratch1/sd/d_abram/T320dft/T320_ts3000_out'
+  prefix = 'pwscf'
+  seedname = 'T320_ts3000_map'
+  spin_component = 'none'
+  write_mmn = .true.
+  write_amn = .true.
+/

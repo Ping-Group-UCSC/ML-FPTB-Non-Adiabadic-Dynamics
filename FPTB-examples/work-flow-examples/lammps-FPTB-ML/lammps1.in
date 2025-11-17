@@ -1,0 +1,35 @@
+#Initialization
+units metal
+dimension 3
+atom_style atomic #Atomic system with charges
+atom_modify     map array 
+
+read_data data.dat
+
+#Interatomic potentials - DeepMD 
+pair_style	deepmd ./graphs/graph1.pb ./graphs/graph2.pb ./graphs/graph3.pb 
+pair_coeff * * deepmd
+
+#Predict Wannier centroids
+compute dipole all deeptensor/atom ./graphs/graphdw1.pb 
+
+#MD parameters
+timestep 0.0005 #ps 
+velocity all create 20 1815191 mom yes rot yes dist gaussian 
+
+#Run MD - equil at 330K
+run_style verlet #Velocity verlet
+fix 1 all nvt temp 20 20 0.1 #NH thermostat - 330K with 100 fs frequency
+fix 2 all momentum 1 linear 1 1 1 #Remove total linear momentum of the system at each step
+fix 3 all recenter INIT INIT INIT
+fix 4 all external pf/callback 1 1 
+thermo 100 #Ouputing thermodynamic properties
+
+#Dump coordinates and Wannier centroids
+dump 1 all atom 2 1.pos.lammpstrj
+dump 2 all custom 2 1.dip.lammpstrj id type c_dipole[1] c_dipole[2] c_dipole[3]
+
+timer timeout 4:00:00 every 100
+#run 60000 
+
+#write_restart lammps.restart

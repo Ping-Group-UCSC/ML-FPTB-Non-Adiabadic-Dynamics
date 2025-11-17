@@ -1,0 +1,208 @@
+1 Pb:s 1 1 1 up
+2 Pb:s 1 1 1 dn
+3 Pb:s 2 1 1 up
+4 Pb:s 2 1 1 dn
+5 Pb:s 1 2 1 up
+6 Pb:s 1 2 1 dn
+7 Pb:s 2 2 1 up
+8 Pb:s 2 2 1 dn
+9 Pb:s 1 1 2 up
+10 Pb:s 1 1 2 dn
+11 Pb:s 2 1 2 up
+12 Pb:s 2 1 2 dn
+13 Pb:s 1 2 2 up
+14 Pb:s 1 2 2 dn
+15 Pb:s 2 2 2 up
+16 Pb:s 2 2 2 dn
+17 Pb:p 1 1 1 Z up
+18 Pb:p 1 1 1 Z dn
+19 Pb:p 1 1 1 X up
+20 Pb:p 1 1 1 X dn
+21 Pb:p 1 1 1 Y up
+22 Pb:p 1 1 1 Y dn
+23 Pb:p 2 1 1 Z up
+24 Pb:p 2 1 1 Z dn
+25 Pb:p 2 1 1 X up
+26 Pb:p 2 1 1 X dn
+27 Pb:p 2 1 1 Y up
+28 Pb:p 2 1 1 Y dn
+29 Pb:p 1 2 1 Z up
+30 Pb:p 1 2 1 Z dn
+31 Pb:p 1 2 1 X up
+32 Pb:p 1 2 1 X dn
+33 Pb:p 1 2 1 Y up
+34 Pb:p 1 2 1 Y dn
+35 Pb:p 2 2 1 Z up
+36 Pb:p 2 2 1 Z dn
+37 Pb:p 2 2 1 X up
+38 Pb:p 2 2 1 X dn
+39 Pb:p 2 2 1 Y up
+40 Pb:p 2 2 1 Y dn
+41 Pb:p 1 1 2 Z up
+42 Pb:p 1 1 2 Z dn
+43 Pb:p 1 1 2 X up
+44 Pb:p 1 1 2 X dn
+45 Pb:p 1 1 2 Y up
+46 Pb:p 1 1 2 Y dn
+47 Pb:p 2 1 2 Z up
+48 Pb:p 2 1 2 Z dn
+49 Pb:p 2 1 2 X up
+50 Pb:p 2 1 2 X dn
+51 Pb:p 2 1 2 Y up
+52 Pb:p 2 1 2 Y dn
+53 Pb:p 1 2 2 Z up
+54 Pb:p 1 2 2 Z dn
+55 Pb:p 1 2 2 X up
+56 Pb:p 1 2 2 X dn
+57 Pb:p 1 2 2 Y up
+58 Pb:p 1 2 2 Y dn
+59 Pb:p 2 2 2 Z up
+60 Pb:p 2 2 2 Z dn
+61 Pb:p 2 2 2 X up
+62 Pb:p 2 2 2 X dn
+63 Pb:p 2 2 2 Y up
+64 Pb:p 2 2 2 Y dn
+65 Br:p 1 1 1 z Z up
+66 Br:p 1 1 1 z Z dn
+67 Br:p 1 1 1 z X up
+68 Br:p 1 1 1 z X dn
+69 Br:p 1 1 1 z Y up
+70 Br:p 1 1 1 z Y dn
+71 Br:p 2 1 1 z Z up
+72 Br:p 2 1 1 z Z dn
+73 Br:p 2 1 1 z X up
+74 Br:p 2 1 1 z X dn
+75 Br:p 2 1 1 z Y up
+76 Br:p 2 1 1 z Y dn
+77 Br:p 1 2 1 z Z up
+78 Br:p 1 2 1 z Z dn
+79 Br:p 1 2 1 z X up
+80 Br:p 1 2 1 z X dn
+81 Br:p 1 2 1 z Y up
+82 Br:p 1 2 1 z Y dn
+83 Br:p 2 2 1 z Z up
+84 Br:p 2 2 1 z Z dn
+85 Br:p 2 2 1 z X up
+86 Br:p 2 2 1 z X dn
+87 Br:p 2 2 1 z Y up
+88 Br:p 2 2 1 z Y dn
+89 Br:p 1 1 2 z Z up
+90 Br:p 1 1 2 z Z dn
+91 Br:p 1 1 2 z X up
+92 Br:p 1 1 2 z X dn
+93 Br:p 1 1 2 z Y up
+94 Br:p 1 1 2 z Y dn
+95 Br:p 2 1 2 z Z up
+96 Br:p 2 1 2 z Z dn
+97 Br:p 2 1 2 z X up
+98 Br:p 2 1 2 z X dn
+99 Br:p 2 1 2 z Y up
+100 Br:p 2 1 2 z Y dn
+101 Br:p 1 2 2 z Z up
+102 Br:p 1 2 2 z Z dn
+103 Br:p 1 2 2 z X up
+104 Br:p 1 2 2 z X dn
+105 Br:p 1 2 2 z Y up
+106 Br:p 1 2 2 z Y dn
+107 Br:p 2 2 2 z Z up
+108 Br:p 2 2 2 z Z dn
+109 Br:p 2 2 2 z X up
+110 Br:p 2 2 2 z X dn
+111 Br:p 2 2 2 z Y up
+112 Br:p 2 2 2 z Y dn
+113 Br:p 1 1 1 y Z up
+114 Br:p 1 1 1 y Z dn
+115 Br:p 1 1 1 y X up
+116 Br:p 1 1 1 y X dn
+117 Br:p 1 1 1 y Y up
+118 Br:p 1 1 1 y Y dn
+119 Br:p 2 1 1 y Z up
+120 Br:p 2 1 1 y Z dn
+121 Br:p 2 1 1 y X up
+122 Br:p 2 1 1 y X dn
+123 Br:p 2 1 1 y Y up
+124 Br:p 2 1 1 y Y dn
+125 Br:p 1 2 1 y Z up
+126 Br:p 1 2 1 y Z dn
+127 Br:p 1 2 1 y X up
+128 Br:p 1 2 1 y X dn
+129 Br:p 1 2 1 y Y up
+130 Br:p 1 2 1 y Y dn
+131 Br:p 2 2 1 y Z up
+132 Br:p 2 2 1 y Z dn
+133 Br:p 2 2 1 y X up
+134 Br:p 2 2 1 y X dn
+135 Br:p 2 2 1 y Y up
+136 Br:p 2 2 1 y Y dn
+137 Br:p 1 1 2 y Z up
+138 Br:p 1 1 2 y Z dn
+139 Br:p 1 1 2 y X up
+140 Br:p 1 1 2 y X dn
+141 Br:p 1 1 2 y Y up
+142 Br:p 1 1 2 y Y dn
+143 Br:p 2 1 2 y Z up
+144 Br:p 2 1 2 y Z dn
+145 Br:p 2 1 2 y X up
+146 Br:p 2 1 2 y X dn
+147 Br:p 2 1 2 y Y up
+148 Br:p 2 1 2 y Y dn
+149 Br:p 1 2 2 y Z up
+150 Br:p 1 2 2 y Z dn
+151 Br:p 1 2 2 y X up
+152 Br:p 1 2 2 y X dn
+153 Br:p 1 2 2 y Y up
+154 Br:p 1 2 2 y Y dn
+155 Br:p 2 2 2 y Z up
+156 Br:p 2 2 2 y Z dn
+157 Br:p 2 2 2 y X up
+158 Br:p 2 2 2 y X dn
+159 Br:p 2 2 2 y Y up
+160 Br:p 2 2 2 y Y dn
+161 Br:p 1 1 1 x Z up
+162 Br:p 1 1 1 x Z dn
+163 Br:p 1 1 1 x X up
+164 Br:p 1 1 1 x X dn
+165 Br:p 1 1 1 x Y up
+166 Br:p 1 1 1 x Y dn
+167 Br:p 2 1 1 x Z up
+168 Br:p 2 1 1 x Z dn
+169 Br:p 2 1 1 x X up
+170 Br:p 2 1 1 x X dn
+171 Br:p 2 1 1 x Y up
+172 Br:p 2 1 1 x Y dn
+173 Br:p 1 2 1 x Z up
+174 Br:p 1 2 1 x Z dn
+175 Br:p 1 2 1 x X up
+176 Br:p 1 2 1 x X dn
+177 Br:p 1 2 1 x Y up
+178 Br:p 1 2 1 x Y dn
+179 Br:p 2 2 1 x Z up
+180 Br:p 2 2 1 x Z dn
+181 Br:p 2 2 1 x X up
+182 Br:p 2 2 1 x X dn
+183 Br:p 2 2 1 x Y up
+184 Br:p 2 2 1 x Y dn
+185 Br:p 1 1 2 x Z up
+186 Br:p 1 1 2 x Z dn
+187 Br:p 1 1 2 x X up
+188 Br:p 1 1 2 x X dn
+189 Br:p 1 1 2 x Y up
+190 Br:p 1 1 2 x Y dn
+191 Br:p 2 1 2 x Z up
+192 Br:p 2 1 2 x Z dn
+193 Br:p 2 1 2 x X up
+194 Br:p 2 1 2 x X dn
+195 Br:p 2 1 2 x Y up
+196 Br:p 2 1 2 x Y dn
+197 Br:p 1 2 2 x Z up
+198 Br:p 1 2 2 x Z dn
+199 Br:p 1 2 2 x X up
+200 Br:p 1 2 2 x X dn
+201 Br:p 1 2 2 x Y up
+202 Br:p 1 2 2 x Y dn
+203 Br:p 2 2 2 x Z up
+204 Br:p 2 2 2 x Z dn
+205 Br:p 2 2 2 x X up
+206 Br:p 2 2 2 x X dn
+207 Br:p 2 2 2 x Y up
+208 Br:p 2 2 2 x Y dn
